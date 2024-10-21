@@ -51,7 +51,9 @@ education:
     date_start: 2022-09-01
     date_end: 2025-03-01
     summary: |
-      Supervised by [Prof Cheng Zhuo](https://person.zju.edu.cn/chengzhuo). Presented 2 conference papers and 2 journals including IEEE/ACM International Conference on Computer-Aided Design (ICCAD) and ACM Transactions on Computing Systems (TECS), etc.  
+      Supervised by Prof. Cheng Zhuo
+      
+      Presented 1 conference papers and 2 journals including IEEE/ACM International Conference on Computer-Aided Design (ICCAD) and ACM Transactions on Computing Systems (TECS), etc.  
 
   - area: BSc Information Engineering
     institution: Zhejiang University
