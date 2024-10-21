@@ -52,7 +52,7 @@ sections:
     design:
       # view: article-grid
       # columns: 2
-      columns: '1'
+      # columns: '1'
   - block: collection
     content:
       title: Recent Publications
@@ -65,7 +65,7 @@ sections:
         Under construction ...
     design:
       # view: citation
-      columns: '1'
+      # columns: '1'
   - block: collection
     id: talks
     content:
@@ -78,7 +78,7 @@ sections:
     design:
       # view: article-grid
       # columns: 1
-      columns: '1'
+      # columns: '1'
   - block: collection
     id: news
     content:
@@ -110,7 +110,7 @@ sections:
       # # Reduce spacing
       # spacing:
       #   padding: [0, 0, 0, 0]
-      columns: '1'
+      # columns: '1'
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
